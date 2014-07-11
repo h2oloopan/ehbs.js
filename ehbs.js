@@ -1,3 +1,17 @@
+/*
+  Author: Shengying Pan
+  License: MIT
+  
+  options for require.config
+  
+  ehbs: {
+    compile: true or false to weather compile your templates or not
+    extension: '.htm' or '.hbs' or anything you use for your handlebars templates
+  }
+
+*/
+
+
 define(['module'], function(module) {
   var ehbs;
   ehbs = {
