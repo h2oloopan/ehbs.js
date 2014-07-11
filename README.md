@@ -1,7 +1,7 @@
 ehbs.js
 =======
 
-ehbs.js is a require.js plugin that can load both uncompiled and precompiled Ember Handlebars templates on demand.
+ehbs.js is a require.js plugin that can load both uncompiled and precompiled Ember Handlebars templates on demand. It depends on require.js and text.js so make sure you have them in place first.
 
 Here is an example to demonstrate how to use it, in your require config, you setup ehbs like this:
 
